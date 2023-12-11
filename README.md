@@ -1,2 +1,2 @@
 # Bank-customer-spend-analysis
-adding
+This project navigates the intricacies of a bank's customer data, employing Python's Pandas library to unravel demographic nuances, spending patterns, and income utilization percentages. An interactive Tableau dashboard unveils key insights, guiding targeted credit card strategies for the top customer segments based on age, occupation, and regional preferences, ultimately informing the implementation of timely and category-specific features to enhance customer engagement and satisfaction.
